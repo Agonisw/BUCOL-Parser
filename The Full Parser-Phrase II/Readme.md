@@ -47,6 +47,6 @@ PRINT XY-1;" + ";_Y;"=";Z.
 
 END.
 ```
-There is the screenshot of results.
+There is the screenshot of result.
 
 ![Screenshot](./Screenshot/Screenshot2.png)
