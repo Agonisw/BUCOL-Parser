@@ -27,7 +27,7 @@ PRINT XY-1;" + ";Y;"=";Z.
 END.
 ```
 There is the screenshot of result.
-![Screenshot](/Screenshot/Screenshot.png)
+![Screenshot](./Screenshot/Screenshot.png)
 
 This is the second valid example, and if you type wrong, there will feedback to you.
 ```
@@ -47,4 +47,4 @@ PRINT XY-1;" + ";_Y;"=";Z.
 END.
 ```
 There is the screenshot of results.
-![Screenshot](/Screenshot/Screenshot2.png)
+![Screenshot](./Screenshot/Screenshot2.png)
